@@ -36,4 +36,4 @@ par Martin François @tinmar
 Xavier Refour @Xavier.Refour
 ------
 
-https://img.buzzfeed.com/buzzfeed-static/static/2013-12/enhanced/webdr07/3/12/anigif_enhanced-buzz-13755-1386090601-21.gif
+![](https://img.buzzfeed.com/buzzfeed-static/static/2013-12/enhanced/webdr07/3/12/anigif_enhanced-buzz-13755-1386090601-21.gif)
