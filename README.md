@@ -1,5 +1,7 @@
 Hello la correction, bienvenue dans ce petit repo, el famoso Ruby on Rails 2nd;
 
+DISCLAMER : pour la dernière partie du seed : on fait un double rand pour obtenir 2 chiffres et ainsi obtenir un écart aléatoire et donc toute Stroll n'a pas le même nombre de chien-chien, prévoir donc un nombre aléatoire de miam-miam
+
 Le principe de l'exercice est simple :
 
 Le Airbnb des promenades de chiens :
