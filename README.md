@@ -20,7 +20,7 @@ $ rails db:migrate
 
 $ rails db:seed
 
-$ rails c
+$ rails console
 
 $ tp User.all
 
